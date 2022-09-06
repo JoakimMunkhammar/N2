@@ -1,5 +1,4 @@
-# N2
-N2Downscaling
+# N2Downscaling
 
 Dr. Joakim Munkhammar, PhD 2022
  
